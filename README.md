@@ -9,4 +9,5 @@ Comp
 
 My Site
 
-[screencapture-file-Users-colbyallen-Turing-projects-static-comp-2-index-html-2019-02-19-13_36_35.pdf](https://github.com/colbyallen012/CA-comp-challenge-2/files/2881904/screencapture-file-Users-colbyallen-Turing-projects-static-comp-2-index-html-2019-02-19-13_36_35.pdf)
+![screencapture-file-users-colbyallen-turing-projects-static-comp-2-index-html-2019-02-19-13_36_35](https://user-images.githubusercontent.com/43159025/53045736-97792000-344b-11e9-8d00-fbbe61bf2fd2.png)
+
